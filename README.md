@@ -1,0 +1,24 @@
+# Form Utility Helper Functions
+
+```sh
+npm install --save form-utils
+```
+
+## Usage
+
+```javascript
+import { validPostalCode } from 'form-utils';
+
+const input = "V1J 4L2";
+
+if(validPostalCode(input)) {
+    // Do something
+}
+
+```
+
+## Test
+
+```sh
+npm run test
+```

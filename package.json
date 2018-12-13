@@ -1,5 +1,5 @@
 {
-  "name": "form-utils",
+  "name": "form-utilities",
   "version": "1.0.0",
   "description": "A form utility helper library",
   "main": "dist/index.js",

@@ -7,7 +7,7 @@ npm install --save form-utils
 ## Usage
 
 ```javascript
-import { validPostalCode } from 'form-utils';
+import { validPostalCode } from 'form-utilities';
 
 const input = "V1J 4L2";
 

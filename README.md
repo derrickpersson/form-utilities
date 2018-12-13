@@ -1,7 +1,7 @@
 # Form Utility Helper Functions
 
 ```sh
-npm install --save form-utils
+npm install --save form-utilities
 ```
 
 ## Usage
